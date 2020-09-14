@@ -1,5 +1,5 @@
 # Searching-and-Sorting-Engine
-A robust engine that implements many sorting and searching algorthims for arrays.  
+A robust engine that implements many sorting and searching algorithims for arrays.  
 
 Sorting Algorithms:  
   -Bubble Sort  
